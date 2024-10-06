@@ -6,7 +6,7 @@
 - [Project Structure](#-project-structure)
 - [Installation](#-installation)
 - [Usage](#-Usage)
-- [Model Architecture](##-model-architecture)
+- [Model Architecture](#model-architecture)
 - [Training](#-training)
 - [Prediction](#-prediction)
 - [Performance](#-Performance)
@@ -45,7 +45,7 @@ To train the model:
 To make custom predictions using the saved model:
     Run `predict.ipynb`
 
-## 🏗️ Model Architecture
+## 🏗️ <a name="model-architecture">Model Architecture</a>
 The CNN architecture is defined from scratch in `model.ipynb`. It includes:
 - Convolutional layers
 - Pooling layers
