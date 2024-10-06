@@ -45,7 +45,7 @@ To train the model:
 To make custom predictions using the saved model:
     Run `predict.ipynb`
 
-## 🏗️ <a name="model-architecture">Model Architecture</a>
+ 🏗️ <a name="model-architecture">## Model Architecture</a>
 The CNN architecture is defined from scratch in `model.ipynb`. It includes:
 - Convolutional layers
 - Pooling layers
