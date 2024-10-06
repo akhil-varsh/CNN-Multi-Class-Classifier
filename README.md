@@ -7,11 +7,11 @@
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Model Architecture](#-model-architecture)
-- [Training](#-training)
+- [Training](#-training-)
 - [Prediction](#-prediction)
 - [Performance](#-performance)
 - [Hardware Requirements](#-hardware-requirements)
-- [Contribution](#-contributing)
+- [Contribution](#-contribution)
 
 ## 🌟 Project Overview
 This project implements a Convolutional Neural Network (CNN) for multi-class classification. The model is built from scratch, providing a deep understanding of the underlying architecture and training process. With an accuracy of around 90%, it demonstrates strong performance on the classification task.
@@ -54,7 +54,7 @@ The CNN architecture is defined from scratch in `model.ipynb`. It includes:
 
 For detailed architecture, refer to the `model.ipynb` file.
 
-## 🏋️ Training
+## 🏋️ Training-
 The training process is implemented in `model.ipynb` and includes:
 - Custom training loop
 - Loss function: CrossEntropyLoss ---> Epoch [1/40], Loss: 1.2354
