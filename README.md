@@ -6,7 +6,7 @@
 - [Project Structure](#-project-structure)
 - [Installation](#-installation)
 - [Usage](#-Usage)
-- [Model Architecture](#-model-architecture)
+- [Model Architecture](##-model-architecture)
 - [Training](#-training)
 - [Prediction](#-prediction)
 - [Performance](#-Performance)
