@@ -7,9 +7,9 @@
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Model Architecture](#-model-architecture)
-- [Training](#-training-)
+- [Training](#-training)
 - [Prediction](#-prediction)
-- [Performance](#-performance)
+- [Performance](#-Performance)
 - [Hardware Requirements](#-hardware-requirements)
 - [Contribution](#-contribution)
 
