@@ -65,6 +65,11 @@ The training process is implemented in `model.ipynb` and includes:
 ## 🔮 Prediction
 The `predict.ipynb` notebook is provided for making predictions using the saved model. This notebook loads the trained model and can be used for inference on new data.
 
+
+Here's an example of a prediction made by the model:
+
+![Prediction Example](data/prediction_1.png)
+
 ## 📈 Performance
 The model achieves an accuracy of approximately 90% on the test dataset, demonstrating its effectiveness in multi-class classification tasks.
 
