@@ -1,13 +1,13 @@
 # CNN Multi-Class Classifier 🧠🔍
 
 ## 📋 Table of Contents
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Architecture](#model-architecture)
-- [Training](#training)
+- [Project Overview](#-project-overview)
+- [Features](#-features)
+- [Project Structure](#-project-structure)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Model Architecture](#-model-architecture)
+- [Training](#-training)
 - [Prediction](#prediction)
 - [Performance](#performance)
 - [Hardware Requirements](#hardware-requirements)
