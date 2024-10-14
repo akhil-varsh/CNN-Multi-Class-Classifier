@@ -1,13 +1,13 @@
 # CNN Multi-Class Classifier 🧠🔍
 
 ## 📋 Table of Contents
-- [Project Overview](#-project-overview)
-- [Features](#-features)
-- [Project Structure](#-project-structure)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Model Architecture](#-model-architecture)
-- [Training](#-training)
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Model Architecture](#model-architecture)
+- [Training](#training)
 - [Prediction](#prediction)
 - [Performance](#performance)
 - [Hardware Requirements](#hardware-requirements)
@@ -45,7 +45,7 @@ To train the model:
 To make custom predictions using the saved model:
     Run `predict.ipynb`
 
-## 🏗️ Model Architecture
+## 🏗️ <a name="model-architecture">Model Architecture</a>
 The CNN architecture is defined from scratch in `model.ipynb`. It includes:
 - Convolutional layers
 - Pooling layers
@@ -54,7 +54,7 @@ The CNN architecture is defined from scratch in `model.ipynb`. It includes:
 
 For detailed architecture, refer to the `model.ipynb` file.
 
-## 🏋️ Training
+## 🏋️ Training-
 The training process is implemented in `model.ipynb` and includes:
 - Custom training loop
 - Loss function: CrossEntropyLoss ---> Epoch [1/40], Loss: 1.2354
