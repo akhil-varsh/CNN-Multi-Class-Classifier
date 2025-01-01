@@ -1,5 +1,20 @@
 # CNN Multi-Class Classifier 🧠🔍
 
+
+## 📋 Table of Contents
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Model Architecture](#model-architecture)
+- [Training](#training)
+- [Prediction](#prediction)
+- [Performance](#performance)
+- [Hardware Requirements](#hardware-requirements)
+- [Contribution](#contributing)
+
+
 ## 🌟 Project Overview
 This project implements a Convolutional Neural Network (CNN) for multi-class classification. The model is built from scratch, providing a deep understanding of the underlying architecture and training process. With an accuracy of around 90%, it demonstrates strong performance on the classification task.
 
