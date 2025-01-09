@@ -61,7 +61,6 @@ The training process is implemented in `model.ipynb` and includes:
 - Custom training loop
 - Loss function: CrossEntropyLoss ---> Epoch [1/40], Loss: 1.2354
                                        Epoch [40/40], Loss: 0.0000
-- Optimizer: Adam
 - Number of epochs: 40 
 
 ## 🔮 Prediction
