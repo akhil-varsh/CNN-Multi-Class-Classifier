@@ -15,7 +15,7 @@
 - [Contribution](#contributing)
 
 
-## 🌟 
+## 🌟 Project Overview
 This project implements a Convolutional Neural Network (CNN) for multi-class classification. The model is built from scratch, providing a deep understanding of the underlying architecture and training process. With an accuracy of around 90%, it demonstrates strong performance on the classification task.
 
 ## 🚀 Features
